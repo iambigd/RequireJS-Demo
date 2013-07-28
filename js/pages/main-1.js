@@ -13,6 +13,7 @@ requirejs.config({
     }
 });
 
+
 //最後就可以使用簡單的module name來使用相關的module
 //以下是以jquery為例
 // require(["jquery"], function($) {
